@@ -15,7 +15,7 @@ public class JWTSample {
             throws UnsupportedEncodingException, NoSuchAlgorithmException {
         long issuedAt = System.currentTimeMillis() / 1000L;
         long expiresAt = issuedAt + 198880L;
-        String key = "com.thed.zephyr.je"; //the key from the add-on descriptor
+        String key = "com.thed.zephyr.zapi"; //the key from the add-on descriptor
         String sharedSecret = "secretKey";    //the sharedsecret key received
         //during the add-on installation handshake
         String method = "GET";
