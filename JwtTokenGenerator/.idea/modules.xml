@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GenerateJwtAuthentication/demo.iml" filepath="$PROJECT_DIR$/../GenerateJwtAuthentication/demo.iml" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/api/jwt-api.iml" filepath="$USER_HOME$/atlassian-jwt/api/jwt-api.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/applinks/jwt-applinks.iml" filepath="$USER_HOME$/atlassian-jwt/applinks/jwt-applinks.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/core/jwt-core.iml" filepath="$USER_HOME$/atlassian-jwt/core/jwt-core.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/integration-tests/jwt-integration-tests.iml" filepath="$USER_HOME$/atlassian-jwt/integration-tests/jwt-integration-tests.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/jwt-parent.iml" filepath="$USER_HOME$/atlassian-jwt/jwt-parent.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/plugin/jwt-plugin.iml" filepath="$USER_HOME$/atlassian-jwt/plugin/jwt-plugin.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/spi/jwt-spi.iml" filepath="$USER_HOME$/atlassian-jwt/spi/jwt-spi.iml" group="jwt-parent and modules" />
+      <module fileurl="file://$USER_HOME$/atlassian-jwt/test-plugin/jwt-test-plugin.iml" filepath="$USER_HOME$/atlassian-jwt/test-plugin/jwt-test-plugin.iml" group="jwt-parent and modules" />
+    </modules>
+  </component>
+</project>

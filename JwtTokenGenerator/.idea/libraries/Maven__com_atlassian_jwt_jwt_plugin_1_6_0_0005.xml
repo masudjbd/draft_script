@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.jwt:jwt-plugin:1.6.0-0005">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/jwt/jwt-plugin/1.6.0-0005/jwt-plugin-1.6.0-0005.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/jwt/jwt-plugin/1.6.0-0005/jwt-plugin-1.6.0-0005-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/jwt/jwt-plugin/1.6.0-0005/jwt-plugin-1.6.0-0005-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
